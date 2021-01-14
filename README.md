@@ -7,6 +7,7 @@ A comprehensive collection of open source C++ examples for CUDA, the new generat
 + [Generate the project](#generate-the-project)
 + [Examples](#examples)
     + [Raytracing](https://github.com/daemyung/CUDA/tree/main/raytracing)
+    + [Sobel](https://github.com/daemyung/CUDA/tree/main/sobel)
 + [Open sources](#open-sources)
 
 ## Requirements
@@ -26,6 +27,7 @@ cmake ..
 
 ## Examples
 + [Raytracing](https://github.com/daemyung/CUDA/tree/main/raytracing)
++ [Sobel](https://github.com/daemyung/CUDA/tree/main/sobel)
 
 ## Open sources
 + [stb](https://github.com/nothings/stb)
